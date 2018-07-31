@@ -1,0 +1,29 @@
+@import './base/base';
+@import './component/header';
+
+.clearboth{
+    clear: both;
+}
+.textareabox{
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 0 2px #ccc;
+    padding: 3px;
+    height: 2rem;
+    width: 16rem;
+    resize: none;
+    float: left;
+}
+.addbuttoncmnt{
+    float: left;
+    height: 2.5rem;
+    width: 6rem;
+    background: #6CC6F2;
+    color: black;
+}
+.pad10{
+    padding: 1px;
+}
+.pad50{
+    padding: 5px;
+}
